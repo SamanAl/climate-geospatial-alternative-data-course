@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "assets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "asset_id": "A01", "asset_name": "Bay warehouse", "sector": "Logistics", "longitude": -95.48, "latitude": 29.65, "equity_usd_m": 20, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.48, 29.65 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A02", "asset_name": "Canal apartments", "sector": "Housing", "longitude": -95.42, "latitude": 29.7, "equity_usd_m": 35, "cooling_backup_verified": true }, "geometry": { "type": "Point", "coordinates": [ -95.42, 29.7 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A03", "asset_name": "Cedar logistics", "sector": "Logistics", "longitude": -95.33, "latitude": 29.72, "equity_usd_m": 28, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.33, 29.72 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A04", "asset_name": "Delta solar", "sector": "Energy", "longitude": -95.26, "latitude": 29.67, "equity_usd_m": 18, "cooling_backup_verified": true }, "geometry": { "type": "Point", "coordinates": [ -95.26, 29.67 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A05", "asset_name": "Elm housing", "sector": "Housing", "longitude": -95.45, "latitude": 29.79, "equity_usd_m": 42, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.45, 29.79 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A06", "asset_name": "Foundry storage", "sector": "Logistics", "longitude": -95.37, "latitude": 29.81, "equity_usd_m": 16, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.37, 29.81 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A07", "asset_name": "Grove office", "sector": "Office", "longitude": -95.3, "latitude": 29.86, "equity_usd_m": 33, "cooling_backup_verified": true }, "geometry": { "type": "Point", "coordinates": [ -95.3, 29.86 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A08", "asset_name": "Harbor data center", "sector": "Digital infrastructure", "longitude": -95.22, "latitude": 29.78, "equity_usd_m": 60, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.22, 29.78 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A09", "asset_name": "Ivy apartments", "sector": "Housing", "longitude": -95.4, "latitude": 29.88, "equity_usd_m": 25, "cooling_backup_verified": true }, "geometry": { "type": "Point", "coordinates": [ -95.4, 29.88 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A10", "asset_name": "Juniper depot", "sector": "Logistics", "longitude": -95.28, "latitude": 29.83, "equity_usd_m": 22, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.28, 29.83 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A11", "asset_name": "Kestrel logistics", "sector": "Logistics", "longitude": -95.12, "latitude": 29.76, "equity_usd_m": 30, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.12, 29.76 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A12", "asset_name": "Lagoon storage", "sector": "Logistics", "longitude": -95.485, "latitude": 29.89, "equity_usd_m": 12, "cooling_backup_verified": false }, "geometry": { "type": "Point", "coordinates": [ -95.485, 29.89 ] } }
+]
+}

@@ -1,0 +1,13 @@
+asset_id,asset_name,sector,longitude,latitude,equity_usd_m,cooling_backup_verified
+A01,Bay warehouse,Logistics,-95.48,29.65,20,False
+A02,Canal apartments,Housing,-95.42,29.7,35,True
+A03,Cedar logistics,Logistics,-95.33,29.72,28,False
+A04,Delta solar,Energy,-95.26,29.67,18,True
+A05,Elm housing,Housing,-95.45,29.79,42,False
+A06,Foundry storage,Logistics,-95.37,29.81,16,False
+A07,Grove office,Office,-95.3,29.86,33,True
+A08,Harbor data center,Digital infrastructure,-95.22,29.78,60,False
+A09,Ivy apartments,Housing,-95.4,29.88,25,True
+A10,Juniper depot,Logistics,-95.28,29.83,22,False
+A11,Kestrel logistics,Logistics,-95.12,29.76,30,False
+A12,Lagoon storage,Logistics,-95.485,29.89,12,False

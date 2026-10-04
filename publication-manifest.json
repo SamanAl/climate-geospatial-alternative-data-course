@@ -1,0 +1,739 @@
+[
+  {
+    "file": "Alternative Data - Climate and Geospatial/requirements.txt",
+    "bytes": 207,
+    "sha256": "5afeabd383267076774d0447cbd6fd27b16a2f88ed9d89b50d8e7b0a36dd5e0d"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/.gitignore",
+    "bytes": 73,
+    "sha256": "9d0a109fb3beb70b2de6b8438f7a47a15bde23f9c54a51ba6a0f56ffa315e7da"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/README.md",
+    "bytes": 5273,
+    "sha256": "530adae7b04dc3bf007ffe3e7aa7efabf0fcce4179b4ecfd7e8870567652d0d1"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/VALIDATION.md",
+    "bytes": 1454,
+    "sha256": "2adfddc6dd98992b76f079b025e764f6127e743e923c909109cea936073b7de2"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/requirements-tested.txt",
+    "bytes": 2083,
+    "sha256": "64cb87d482faeeafb4492264e6d585caed693b73ad0f61a88d96b542a31c8df9"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/student-pack.zip",
+    "bytes": 37414609,
+    "sha256": "c03712cf2bc13e524f593d18cb3490f561de43f5b9b6ca4a232dc88617827fcd"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/scripts/build_data.py",
+    "bytes": 5145,
+    "sha256": "a2283173257525b96d3f6fb08ee9be8165fb483c2ba9b30b82e5dd9c80226b9c"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/scripts/build_notebooks.py",
+    "bytes": 35083,
+    "sha256": "b4fe1dcdd62a97fc4ddf32f448993a70eeefcff0e3d7adf9680e65ec97f211f7"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/scripts/validate_and_export.py",
+    "bytes": 9837,
+    "sha256": "2a74a997ab9da75a1e5d94f062c77cc89dfba30c13bb94964be06f4b02c9279c"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/DATA_DICTIONARY.md",
+    "bytes": 5819,
+    "sha256": "d5461c32b34db81c329f7ae2d3a611c961cf393db79409cb44521a84e70a2fb0"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/assets.csv",
+    "bytes": 704,
+    "sha256": "00023f41c104dc8c805c09e3f3945e78b84ab3dc2e3147076d85ef845baabaf8"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/assets.geojson",
+    "bytes": 3458,
+    "sha256": "c40c26fbea73cd939ed12ae3a9b7c6719fd749b4c55d4c9ef692352f8ed8124d"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/assets.gpkg",
+    "bytes": 98304,
+    "sha256": "95c1eea9b7f60887147903138741ae3a27325735a98bbf32273793f7bcdd7470"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/service_areas.geojson",
+    "bytes": 634,
+    "sha256": "817b0fb8dfc1837b3c5b9f5a9b9fe617c48e6c5388ea8f96e4ab64d068f294d3"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/corridor.geojson",
+    "bytes": 339,
+    "sha256": "e2f77f46de16ebf8b8c9ed7f661e9bfafa07ceb0674d502c85a5e32604fd66ff"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/synthetic_daily_temperature.nc",
+    "bytes": 1839132,
+    "sha256": "ede0b5ce939407b8931adba532bc348384bda566ac2ddcc349576c532c3cea5e"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/synthetic_hot_days_2024.tif",
+    "bytes": 1223,
+    "sha256": "ebcded3c1953ec4d8a749982521bae393b3b29a6c4cbf75fa6fb8983214ed02d"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/real_satellite_example.tif",
+    "bytes": 38632744,
+    "sha256": "8a6dfeba35d0ce02d544271d2b1d39314e2e5e5754d7c5f01ad4d910e19cc682"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/PLANET_REPOSITORY_LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/manifest.json",
+    "bytes": 2296,
+    "sha256": "bbc80f47d768a5c850cd6408b438436358feead9f04278b4a32366044bc69958"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/shapefile_example/assets.shp",
+    "bytes": 436,
+    "sha256": "69f8bce00a210ff67ec47bd2ff82a04dbcdabb6e624d8f3fd0b77dd1d534f5e2"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/shapefile_example/assets.shx",
+    "bytes": 196,
+    "sha256": "94cd49b777e3f2c3cc46de8e35504d3ccbaac953189c723175a68efdf19a3dc6"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/shapefile_example/assets.dbf",
+    "bytes": 2030,
+    "sha256": "1d11101fb731b47984ea720c6d076267c5f6208cafcfba2a1c9ba99248453f40"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/shapefile_example/assets.cpg",
+    "bytes": 5,
+    "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/data/shapefile_example/assets.prj",
+    "bytes": 145,
+    "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/instructor/TEACHING_GUIDE.md",
+    "bytes": 6554,
+    "sha256": "df330b670f000d9a692a9a84441fd55aaecc2cc3a96d285c546c3f3ba3500e31"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/instructor/ANSWER_GUIDE.md",
+    "bytes": 6148,
+    "sha256": "fad1e1fefbe34802bc75313efde232b8f38bf142733428e6d99fc3f0c9b309fe"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/instructor/WORKED_RESULTS.md",
+    "bytes": 1426,
+    "sha256": "7618759d2b60dbf7df06b2bd352e21f79a013533bc855c77a190502d9f887467"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/notebooks/00_Start_Here_Alternative_Data.ipynb",
+    "bytes": 42563,
+    "sha256": "9762d895f23ebda67ac5e87ba61e4fdd19ec597df3864fd1a4191099b4613e15"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/notebooks/01_Data_Formats_and_First_Map.ipynb",
+    "bytes": 78019,
+    "sha256": "8a6e12fcacb449f19caf7f1a04a84da229dbcb12825a9cfa4a74e01d1ef5dcec"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/notebooks/02_Location_Joins_and_Distance.ipynb",
+    "bytes": 79119,
+    "sha256": "3eaacb6e28c38e619ad18f5d9ae04deedf72acb593f663dd39a6461c8d908bdd"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/notebooks/03_Rasters_Images_and_Exposure.ipynb",
+    "bytes": 447309,
+    "sha256": "5fa55f53328329af527c772f4d57ea8de559056b878a3e5602094ddea83eda40"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/notebooks/04_Climate_Time_and_Uncertainty.ipynb",
+    "bytes": 312080,
+    "sha256": "55a33e184b4e7fd9937dca5b7924c56d52853bcaa519edda814d7f3857101aae"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/notebooks/05_Private_Markets_Due_Diligence_Lab.ipynb",
+    "bytes": 56746,
+    "sha256": "b3b163c12e83feba94d1c2324af3e29ab906dbc9809f9227a17d83a03fe7cf23"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/html/00_Start_Here_Alternative_Data.html",
+    "bytes": 334105,
+    "sha256": "3bcca9b005a5a3799be20aec6ea0cfaaeaa983ef3bf9c337d680ba6e0cf3b2f0"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/html/01_Data_Formats_and_First_Map.html",
+    "bytes": 375767,
+    "sha256": "7c5600831a24983993fda8c927f88387c0f328b1dde2609b2e7663586dec3f92"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/html/02_Location_Joins_and_Distance.html",
+    "bytes": 372973,
+    "sha256": "02aa249879894c7b17497e47011355c851e7c5774def2ac42f092a41b39e3152"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/html/03_Rasters_Images_and_Exposure.html",
+    "bytes": 750666,
+    "sha256": "73b7fc2b3908f91b46f659fa60e1d8bef9d350317536587a9cee0f35ce8fc761"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/html/04_Climate_Time_and_Uncertainty.html",
+    "bytes": 609682,
+    "sha256": "9e150dce9be28245b9b5500d8ca003c816084be3c0895e8541bcb287b17315ec"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/html/05_Private_Markets_Due_Diligence_Lab.html",
+    "bytes": 354067,
+    "sha256": "0a0af299e9c9a8a20d953690f059b1fb3a864885d6344be6000b48043529f98f"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/html/index.html",
+    "bytes": 1149,
+    "sha256": "ff42a9da75c0cd184f0fc9ed63ef36d647ace9a4ba542650198e48e8f202e122"
+  },
+  {
+    "file": "Alternative Data - Climate and Geospatial/outputs/synthetic_portfolio_screen.csv",
+    "bytes": 1210,
+    "sha256": "33d53d6d3208b7588c47a0be2ecc0b7f48ffcc42e6c13bcc5f8a1b2ca7be6909"
+  },
+  {
+    "file": "Geospatial Learning/file-manifest.csv",
+    "bytes": 29080,
+    "sha256": "844ca1eb29b5d11a053a5eb555993c994e2d33565ca083cb14bff3d02767f0f3"
+  },
+  {
+    "file": "Geospatial Learning/CATALOG.md",
+    "bytes": 6424,
+    "sha256": "6d828f3166d499ffdc6ade8e4adac030ad123817f58f297408e25ae0dd8b7b51"
+  },
+  {
+    "file": "Geospatial Learning/README.md",
+    "bytes": 5565,
+    "sha256": "8142aa593f36e58bf5532ebb58711568a82c0a3390f0ab1dfc3d0115b8ebd8d3"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/01-Geospatial-Foundations-and-Spatial-Analysis/Lecture Eight -  GeoPandas & MapClassify.ipynb",
+    "bytes": 17899,
+    "sha256": "6e5f38945e31219bffe9f36d8dedd35e91a861f26a183d531fee4816c04fda5d"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/01-Geospatial-Foundations-and-Spatial-Analysis/Lecture Eight - GeoPlot.ipynb",
+    "bytes": 10056,
+    "sha256": "1da6dc7008b624f092f7c5fe1390cde5ad135e2dbded832e7aff5eaabfd80c95"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/01-Geospatial-Foundations-and-Spatial-Analysis/Lecture Eight - Geospatial Data.ipynb",
+    "bytes": 16739,
+    "sha256": "4ab03f67eea172b1f663b8963c1e20f6f31685c744506b14c5ef842292772a1d"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/01-Geospatial-Foundations-and-Spatial-Analysis/Lecture Eight - Spatial Joins.ipynb",
+    "bytes": 9238,
+    "sha256": "484cc135fde127aa696ae016d0c3b7beb7dac66b6dce1f6cee2aec67a11c3e53"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/Folium-mpld3.ipynb",
+    "bytes": 5621821,
+    "sha256": "21e858545369aea9871b8700367698e0e0cdc56797b37de43b8b37502ffa4a65"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/Folium_and_mplleaflet.ipynb",
+    "bytes": 6390,
+    "sha256": "8ff83384ced9c7ef158b746c431c055c7c714e339dfb1332f7ffdce5ba1cbb1c"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/Lecture Eight - APIs & JSON and GeoPy.ipynb",
+    "bytes": 40787,
+    "sha256": "0e1286749328d0c6454387e786cf7ab976562dbd18747e95fb98081a8f47da1e"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/Lecture Eight - Folium.ipynb",
+    "bytes": 4118160,
+    "sha256": "63e027948768acb88e44a89d5fc7001ffb121af77c6107857153733fe68700e7"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/MarkerCluster.ipynb",
+    "bytes": 270009,
+    "sha256": "e167b83d53a090239633d5dad887c543af75e9c2299e8811f9def01a816ef4e3"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/Polygons_from_list_of_points.ipynb",
+    "bytes": 10655,
+    "sha256": "37eba48c4a68daec5d5d2be6c36250c82fffb5125136399f657d569f780a3d1a"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/Strip.ipynb",
+    "bytes": 331221,
+    "sha256": "96cc5dfb2a69c241c579f3bd8d391baf950e04957a0802e7540cfa0310f88aaa"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/addresses.csv",
+    "bytes": 2095,
+    "sha256": "119c9b716c78d39ca97d550813aa01c66f081cef276a5d714c51e1a103dd31ec"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/df_addresses.csv",
+    "bytes": 204,
+    "sha256": "b7ab400c909ac7c2cfaddb1f0356044af8d5a162bfccf94c12e20a2c0085cf62"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/2014_08_05_farol.gpx",
+    "bytes": 138685,
+    "sha256": "4b45f9affa0299cb875a1ab85d1de21d9a0a80414cb2e5e33bb006d5a77aebf3"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/Mercator_projection_SW.jpg",
+    "bytes": 1056506,
+    "sha256": "1316babda4708ea7152c144b90dfdeceb59992c96763b133bf0edb2b589251d0"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/Mercator_projection_SW.png",
+    "bytes": 3295216,
+    "sha256": "1dafac32ee9572411ec9aee8e5fb9b739d8633aec7b04afdfc41fe38536803b8"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/NOAA_46041.csv",
+    "bytes": 74230,
+    "sha256": "1297e191c32d58966d1a83b41a4dda9111982d06015114d9b3d2dea921007605"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/NOAA_46050_WS.csv",
+    "bytes": 317942,
+    "sha256": "fcdb5f3b98f898a1a5d0392a10871d1566aaffa9785941e75660ff63c0ed2f50"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/NOAA_46243.csv",
+    "bytes": 109792,
+    "sha256": "35cd69ffeaf01889e3483eb479e46d7cf70ed4dbd45b134c3cc0120b21a9643c"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/US_Unemployment_Oct2012.csv",
+    "bytes": 367,
+    "sha256": "d05c5c6d37bcb4a3e4cb9394a71d9caf6902948af5217dbcfb4fc9fb698bbab6"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/antarctic_ice_edge.json",
+    "bytes": 322427,
+    "sha256": "646ce58d29229a82de35d32c9ed265a4cc87dbae6ccaf1e68f5ab35c11a7ad21"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/antarctic_ice_shelf_topo.json",
+    "bytes": 161753,
+    "sha256": "a0d9dad84bb063fef9585ff603cf57218b12d8eb47370a956481f0a537e07b8a"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/consonants_vowels.csv",
+    "bytes": 701,
+    "sha256": "21060b1d63deacc532a7b2142bb06003df17215c8765eb85c5aaccf1c3c9fa72"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/data.json",
+    "bytes": 555,
+    "sha256": "f2c93fe7738818239739504d5e8dd7cac98932c3854ba402e6a2ab98dc098c90"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/data2.json",
+    "bytes": 74378,
+    "sha256": "0757c2bf4bece9f48016a75aedf90170664c7aa52fc59ae5a59c10b1368f1f48"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/data3.json",
+    "bytes": 86217,
+    "sha256": "db1becb7f3c092af931fd21cd3ba73384ea7da089731e48cf58f2af5c32a4abe"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/highlight_flight_trajectories.csv",
+    "bytes": 5015,
+    "sha256": "32a71ad55fb281dcbd37daa7a9abeac919067834c57c8b3d15c758fc46ff510e"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/mercator_temperature.mat",
+    "bytes": 2952304,
+    "sha256": "510ab8061524b012602b2cc45ab64c3d6ee9259f8bf7b7fb56da11446eed6ef5"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/nybb.zip",
+    "bytes": 663928,
+    "sha256": "61beb4eb1c03ed1b3ac1e7c8899da30e4928e74ddb8f81e4106c1a5c520da03b"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/or_counties_topo.json",
+    "bytes": 177538,
+    "sha256": "e7093d88aa0a79872836db99a073ca67ed0d682e060658883515939b91886d0d"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/search_bars_rome.json",
+    "bytes": 6496,
+    "sha256": "6b465b19dc7f901a3ddc1bf6400e106556c71e2f41175e4cf52b7b58fd91e761"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/search_states.json",
+    "bytes": 98000,
+    "sha256": "d0f65e4dc687246d3db9e40ff0126887bb8e2ce19e97b2e211e299d82039d73e"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/subwaystations.geojson",
+    "bytes": 176202,
+    "sha256": "dc7c9efa835696f096fbe72f87e0351a8171c81736b193991838fb165f8581ac"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/us-states.json",
+    "bytes": 87688,
+    "sha256": "6a55b5314c49a6c62e20caadd08e30405f7bb20fe280082e1d6b1615dead6546"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/us_counties_20m_topo.json",
+    "bytes": 746917,
+    "sha256": "dfafbdb4808d1e7e446086e4e1119081b05282a22c10a692ee4ae419607dbaea"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/us_county_data.csv",
+    "bytes": 179707,
+    "sha256": "933d5a8e36da181880c444e2922fddcfc85efbaa004f4384aa4878bada9a2727"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/vis1.json",
+    "bytes": 87749,
+    "sha256": "24f2e992cd75d0cc8a2eaf4297e440b730197ac46ebe236fb7c5dc36b84a76fd"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/vis2.json",
+    "bytes": 3220,
+    "sha256": "f505af809bdcc1cd1456be1348dca6f551c8b96ef6ac60faae17dec48791f512"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/vis3.json",
+    "bytes": 189070,
+    "sha256": "5cf9135af5a7d679e7728af03d0c2a676699b41d90a833cfdf89fd9e7b130d65"
+  },
+  {
+    "file": "Geospatial Learning/01-Course/02-Geocoding-and-Interactive-Maps/data/world-countries.json",
+    "bytes": 252515,
+    "sha256": "7d185efbd703132ed761db20c990bcd8e8067abb56746fde831ebd36acdb1e1a"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/shapefile.ipynb",
+    "bytes": 408155,
+    "sha256": "fd995ca4b9969fa25b4980cf4950ed3aaa91a95d51a2162e4f14418bcc93d42d"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/ne_110m_admin_0_countries/ne_110m_admin_0_countries.README.html",
+    "bytes": 23723,
+    "sha256": "0117e7acb5b1d0b2e6a15b7e7baed97f5ae02f667ed50047a54246a64534e3fd"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/ne_110m_admin_0_countries/ne_110m_admin_0_countries.VERSION.txt",
+    "bytes": 7,
+    "sha256": "0874a8fe36effb87780f431845b5a7d85be657f2bd998ce8eeace717860d3b78"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/ne_110m_admin_0_countries/ne_110m_admin_0_countries.cpg",
+    "bytes": 5,
+    "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/ne_110m_admin_0_countries/ne_110m_admin_0_countries.dbf",
+    "bytes": 375450,
+    "sha256": "4b4f72bf36eacebf43c681810f80732e5f58725ecdc012f56650db8079c54fb6"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/ne_110m_admin_0_countries/ne_110m_admin_0_countries.prj",
+    "bytes": 147,
+    "sha256": "3259f0e55290a82b1350646f604e8a7ee1e2136c0320a40fad838ab40819fff8"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp",
+    "bytes": 180924,
+    "sha256": "08e341606e8391e458c3f08deb312de664b56bfae376064c5aa0aee6681a5f55"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/vector/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shx",
+    "bytes": 1516,
+    "sha256": "8b0be2ad97dd484aee5c2ebc98697d5372e832b8ae58a35a661aeef6b985668d"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/webtiles/osm_basemap.ipynb",
+    "bytes": 439030,
+    "sha256": "9cd4c524e5a366913ff21dffeef79bb36ca58a71147e1b7d68a150e73ced66b5"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/webtiles/visualize_imagery_over_time.ipynb",
+    "bytes": 11484,
+    "sha256": "ef240c4a9d909ebf5fc3444bbeb6fe7993b4d69bc726dc6ab5d4d4e33c6ec457"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/coverage/calculate_coverage.ipynb",
+    "bytes": 46356,
+    "sha256": "e86331f3c8372f5a0489537b01ed27c2bdd7378841496c2353442e608002d7c0"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/coverage/calculate_coverage_wgs84.ipynb",
+    "bytes": 81716,
+    "sha256": "934cf3d1f3a65e85f2d7a438de247dc18cfa6c5afb714d294abcceda8c83a643"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/coverage/iowa.geojson",
+    "bytes": 16274,
+    "sha256": "6fc1d9b96bfa15b51b0a4065d34032efe42db91056c154a3e7c3ccb74ec0970a"
+  },
+  {
+    "file": "Geospatial Learning/02-Vector-and-Web-Maps/coverage/iowa_state.png",
+    "bytes": 178334,
+    "sha256": "a0908c243f08ad3f54c31d4f9b2b65508e9f22566a9f5fe742dd540248687008"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/getting-to-know-sat-imagery/Inspecting_Satellite_Imagery.ipynb",
+    "bytes": 11221,
+    "sha256": "7628537c67e05ea140a03bcda35c4950340a31d915a01698a0edf904e966af98"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/getting-to-know-sat-imagery/Visualizing_Satellite_Imagery.ipynb",
+    "bytes": 494142,
+    "sha256": "ba54d849855c35af6c79287497ac070b6d9f8b397531f808bdb5f0f30562bd34"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/getting-to-know-sat-imagery/example.tif",
+    "bytes": 38632744,
+    "sha256": "8a6dfeba35d0ce02d544271d2b1d39314e2e5e5754d7c5f01ad4d910e19cc682"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/getting-to-know-sat-imagery/pixels2.png",
+    "bytes": 91641,
+    "sha256": "9b411ad3545b609f2460f4fc48cf64e1a061170730d9f572a8b6280eb299d9c6"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/0_download_data.ipynb",
+    "bytes": 843,
+    "sha256": "37318b22f6946e261a8f80877a0f4440983f9c9e96da9f4e63ee85bbdce60836"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/1_rasterio_firstlook.ipynb",
+    "bytes": 6063,
+    "sha256": "de181dc86e012d9dbf82bc55cb2f87de996729aec7869adb2999be7ccd718666"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/2_rasterbands.ipynb",
+    "bytes": 8367,
+    "sha256": "1e2b4e5c4af9f19e80d654f82c1aa13c4d33cdb19a78637209b9128aafcb9759"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/3_Compute_NDWI.ipynb",
+    "bytes": 7331,
+    "sha256": "902aaf2463ef57eb3787defa1e5546ad6c23d61efdcf783b6d4fa6d08e1ab70d"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/4_masks_and_filters.ipynb",
+    "bytes": 7189,
+    "sha256": "a2e1bc22627fb69147f92f59278f65e6d5459ecd09d74156413dd90669f1b2f6"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/5_plotting_a_histogram.ipynb",
+    "bytes": 5313,
+    "sha256": "16a92fed57e4e59b76557f63602515282aecbdce9ff2ac8010d4b994bdc418b3"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/README.md",
+    "bytes": 1576,
+    "sha256": "1f8adf94d8f5ce7326a6f004ebfba5cfaa9b8af259438573acfc09215b14baa3"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/coastline_analysis.ipynb",
+    "bytes": 33809,
+    "sha256": "af53085ebfcc982c7bbee5f26732cab4886ff49a92e25472912c851ea7762957"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/assets/coastal_erosion_Bangladesh.geojson",
+    "bytes": 234,
+    "sha256": "152024d13e6d8571a182d9ba674796a781bd160d5206d0f0d20debf45678543a"
+  },
+  {
+    "file": "Geospatial Learning/03-Raster-Fundamentals/scipy-2022-workshop/assets/region.png",
+    "bytes": 826733,
+    "sha256": "69ead506a5ce34a05ac513ba15ce821e7b8b620a8e7d6ef01a91c52e792fd61c"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi/.gitignore",
+    "bytes": 14,
+    "sha256": "1ed643be9835c972151fa763598785e8fd90fe5b8ba3e1fa7ad9c626af279ecd"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi/ndvi_planetscope.ipynb",
+    "bytes": 57578,
+    "sha256": "a229e6c2eac365de48d487daf932650ca4d17d3b238b36b891b9b7664a4e1467"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi/data/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi/images/ndvi-equation.png",
+    "bytes": 7917,
+    "sha256": "1b0586c1dcf4a4f72398a1666f0edf4d2663cf6247fd85b99075ae7b3e47201c"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi/output/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi/output/ndvi_cmap.png",
+    "bytes": 35205552,
+    "sha256": "0375414c051d83429377f3905a6f91fa81e8778d89e2b4643316206b427aa3ef"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi-from-sr/.gitignore",
+    "bytes": 14,
+    "sha256": "1ed643be9835c972151fa763598785e8fd90fe5b8ba3e1fa7ad9c626af279ecd"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi-from-sr/ndvi_planetscope_sr.ipynb",
+    "bytes": 32364,
+    "sha256": "b646d0fd9bfbaf55d3aa39fc28eeabb84730d6cffd3d64436da2c4c0370f301e"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi-from-sr/data/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi-from-sr/images/ndvi-equation.png",
+    "bytes": 7917,
+    "sha256": "1b0586c1dcf4a4f72398a1666f0edf4d2663cf6247fd85b99075ae7b3e47201c"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi-from-sr/output/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi-from-sr/output/ndvi-fig.png",
+    "bytes": 3227522,
+    "sha256": "5ca5d1b3a3862e395f221c17e721f42f970e2af84b2bb22a2d66d9ed830f3613"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/ndvi-from-sr/output/ndvi-histogram.png",
+    "bytes": 63359,
+    "sha256": "835000f3f9b250ab35d782e48e6657f32602c647135aefe64a9568c7008b7be7"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/band-math-generate-ndvi/generate-ndvi-exercise-key.ipynb",
+    "bytes": 19443,
+    "sha256": "bebed7f5d9f1ce0998c526caf587cc51643e7d8b51151a4eb93709302479179b"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/band-math-generate-ndvi/generate-ndvi-exercise.ipynb",
+    "bytes": 20278,
+    "sha256": "82d082b2475269a4eb9a68d69efe774222f99d652c7d11ee2c25a2272158d3ca"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/band-math-generate-ndvi/data/ndvi-equation.png",
+    "bytes": 7917,
+    "sha256": "1b0586c1dcf4a4f72398a1666f0edf4d2663cf6247fd85b99075ae7b3e47201c"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/convert-radiance-to-reflectance/convert-radiance-to-reflectance-key.ipynb",
+    "bytes": 16998,
+    "sha256": "f8f1606706a384ea5bc26b3777351f6cc338da293889f6cdc3668b0a3f793fa1"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/convert-radiance-to-reflectance/convert-radiance-to-reflectance.ipynb",
+    "bytes": 16544,
+    "sha256": "49b337a281541b608dfebc4b91d67c356cfeed78a8c18f5ac98f3147f25dabd7"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/mosaicing-and-masking/mosaicing-and-masking-key.ipynb",
+    "bytes": 13243,
+    "sha256": "9ba76b4e9cbf72a34cdf403053a35df78ebe0dbdc63f4f25906d7f8520d5df4e"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/mosaicing-and-masking/mosaicing-and-masking.ipynb",
+    "bytes": 13853,
+    "sha256": "a055b712c91e192b5c1e0b41c67b52dce089e7a9867c7bd90807dccc6218b16a"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/mosaicing-and-masking/data/mt-dana-small.geojson",
+    "bytes": 804,
+    "sha256": "fee094df0976a917531edfe493f1f588de3b8f80cdeed640b21d72e9e36a8424"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/mosaicing-and-masking/images/explorer-data-order.png",
+    "bytes": 60383,
+    "sha256": "5094d50ec553efd756e32a6e21b840e377b0bb467826da6f03aa54a0c7c49a45"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/mosaicing-and-masking/images/explorer-mt-dana.gif",
+    "bytes": 2466568,
+    "sha256": "caf110cb023b5607e08b7d35a163736ab585b92d4a2d3b561074e0160cf087c9"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/mosaicing-and-masking/images/final_in_qgis.png",
+    "bytes": 515771,
+    "sha256": "6781c6e938f11fd735651cecb8fc4e647d4710c5ba4ff3c789315077872160ee"
+  },
+  {
+    "file": "Geospatial Learning/04-Remote-Sensing-Practice/in-class-exercises/mosaicing-and-masking/images/pe-mtdana.gif",
+    "bytes": 6653856,
+    "sha256": "22e019e2f3ee360fc9a1ec6e9d336c472489113f9806e2e2a3ef122868eccc5d"
+  },
+  {
+    "file": "Geospatial Learning/05-Cloud-Geospatial/cloud-native-geospatial/README.md",
+    "bytes": 1167,
+    "sha256": "14bf837fb5ca69d9207f1abb1da0d1ff8b9886daa2de717e334c7d2324d86d2b"
+  },
+  {
+    "file": "Geospatial Learning/05-Cloud-Geospatial/cloud-native-geospatial/intro-to-cogs/introduction-to-cogs-part2.ipynb",
+    "bytes": 458273,
+    "sha256": "0576ca28b5bb4d03b78c7d912b34b581e60d8369dd50213b80e609679d4ab1f5"
+  },
+  {
+    "file": "Geospatial Learning/05-Cloud-Geospatial/cloud-native-geospatial/intro-to-cogs/introduction-to-cogs-part3.ipynb",
+    "bytes": 5801001,
+    "sha256": "a9da80ecc9016c818445e1db450296c05b7a8779bb74d8020e92aede0b7c628e",
+    "original_sha256": "2b775297d0fb856732984c7de9d8929eae467991185b6bad4b6dfac9701d0db6",
+    "publication_change": "Redacted 1 embedded Google API key occurrence(s)."
+  },
+  {
+    "file": "Geospatial Learning/05-Cloud-Geospatial/cloud-native-geospatial/intro-to-cogs/introduction-to-cogs.ipynb",
+    "bytes": 33608742,
+    "sha256": "9797f2da8a9ad34633e97a0809f455324c15d4b3be1ee9035fdd02c18d852884"
+  },
+  {
+    "file": "Geospatial Learning/05-Cloud-Geospatial/cloud-native-geospatial/intro-to-stac/introduction-to-stac-part1.ipynb",
+    "bytes": 1211071,
+    "sha256": "dc7e0f4ebc00a86224322920c4c4e098b4e381038edfdcf658faeb084de812ae"
+  },
+  {
+    "file": "Geospatial Learning/05-Cloud-Geospatial/cloud-native-geospatial/intro-to-stac/introduction-to-stac-part2.ipynb",
+    "bytes": 188215,
+    "sha256": "e3fbda8b9395186e477f377c813029a990f1fddf515dbd1af1d3db254260f6d8"
+  },
+  {
+    "file": "Geospatial Learning/00-Source-Reference/README.md",
+    "bytes": 11832,
+    "sha256": "1ec4fe03faf5fd83a27e560457da8f2684999bbc00ff8d4287e1f7390c69891f"
+  },
+  {
+    "file": "Geospatial Learning/00-Source-Reference/LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "file": "Geospatial Learning/00-Source-Reference/environment.yml",
+    "bytes": 4697,
+    "sha256": "6f2812b5de330b5343371d28130544c61f2d4a40dc135b3e0470fbb0e12cc21e"
+  }
+]

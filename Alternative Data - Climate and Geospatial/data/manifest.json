@@ -1,0 +1,77 @@
+[
+  {
+    "file": "assets.csv",
+    "bytes": 704,
+    "sha256": "00023f41c104dc8c805c09e3f3945e78b84ab3dc2e3147076d85ef845baabaf8"
+  },
+  {
+    "file": "assets.geojson",
+    "bytes": 3458,
+    "sha256": "c40c26fbea73cd939ed12ae3a9b7c6719fd749b4c55d4c9ef692352f8ed8124d"
+  },
+  {
+    "file": "assets.gpkg",
+    "bytes": 98304,
+    "sha256": "95c1eea9b7f60887147903138741ae3a27325735a98bbf32273793f7bcdd7470"
+  },
+  {
+    "file": "corridor.geojson",
+    "bytes": 339,
+    "sha256": "e2f77f46de16ebf8b8c9ed7f661e9bfafa07ceb0674d502c85a5e32604fd66ff"
+  },
+  {
+    "file": "DATA_DICTIONARY.md",
+    "bytes": 5819,
+    "sha256": "d5461c32b34db81c329f7ae2d3a611c961cf393db79409cb44521a84e70a2fb0"
+  },
+  {
+    "file": "PLANET_REPOSITORY_LICENSE",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "file": "real_satellite_example.tif",
+    "bytes": 38632744,
+    "sha256": "8a6dfeba35d0ce02d544271d2b1d39314e2e5e5754d7c5f01ad4d910e19cc682"
+  },
+  {
+    "file": "service_areas.geojson",
+    "bytes": 634,
+    "sha256": "817b0fb8dfc1837b3c5b9f5a9b9fe617c48e6c5388ea8f96e4ab64d068f294d3"
+  },
+  {
+    "file": "shapefile_example\\assets.cpg",
+    "bytes": 5,
+    "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+  },
+  {
+    "file": "shapefile_example\\assets.dbf",
+    "bytes": 2030,
+    "sha256": "1d11101fb731b47984ea720c6d076267c5f6208cafcfba2a1c9ba99248453f40"
+  },
+  {
+    "file": "shapefile_example\\assets.prj",
+    "bytes": 145,
+    "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+  },
+  {
+    "file": "shapefile_example\\assets.shp",
+    "bytes": 436,
+    "sha256": "69f8bce00a210ff67ec47bd2ff82a04dbcdabb6e624d8f3fd0b77dd1d534f5e2"
+  },
+  {
+    "file": "shapefile_example\\assets.shx",
+    "bytes": 196,
+    "sha256": "94cd49b777e3f2c3cc46de8e35504d3ccbaac953189c723175a68efdf19a3dc6"
+  },
+  {
+    "file": "synthetic_daily_temperature.nc",
+    "bytes": 1839132,
+    "sha256": "ede0b5ce939407b8931adba532bc348384bda566ac2ddcc349576c532c3cea5e"
+  },
+  {
+    "file": "synthetic_hot_days_2024.tif",
+    "bytes": 1223,
+    "sha256": "ebcded3c1953ec4d8a749982521bae393b3b29a6c4cbf75fa6fb8983214ed02d"
+  }
+]
